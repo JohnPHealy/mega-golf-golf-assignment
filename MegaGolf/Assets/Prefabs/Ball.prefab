@@ -126,10 +126,25 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c05e18956238a77408b94fb42c753bed, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  shotPower: 5
-  maxForce: 5
-  minSpeed: 0.6
+  shotPower: 11
+  maxForce: 7
+  minSpeed: 1.5
   myLR: {fileID: 7737572343304792929}
+  shotTaken:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 0}
+        m_TargetAssemblyTypeName: TMPro.TMP_Text, Unity.TextMeshPro
+        m_MethodName: set_text
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &9066062088641920023
 GameObject:
   m_ObjectHideFlags: 0
