@@ -5,10 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TestGolf.unity
     guid: be2ebc8b254d5a34bb09e59d579c943a
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Level1.unity
     guid: 54fab7d0fa5c7e348aaa7b615b7da892
+  - enabled: 1
+    path: Assets/Scenes/Golf Forrest Level 3.unity
+    guid: df1f28f4f518307449544b7b5fff68b1
   m_configObjects: {}
