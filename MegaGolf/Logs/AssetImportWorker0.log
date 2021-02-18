@@ -1,0 +1,123 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 18363.1379; Version 1909; 64bit' Language: 'en' Physical Memory: 8023 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/juero/Documents/GitHub/mega-golf-golf-assignment/mega-golf-golf-assignment/MegaGolf
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61935
+Successfully changed project path to: C:/Users/juero/Documents/GitHub/mega-golf-golf-assignment/mega-golf-golf-assignment/MegaGolf
+C:/Users/juero/Documents/GitHub/mega-golf-golf-assignment/mega-golf-golf-assignment/MegaGolf
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 27.96 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/juero/Documents/GitHub/mega-golf-golf-assignment/mega-golf-golf-assignment/MegaGolf/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 Ti (ID=0x2191)
+    Vendor:   
+    VRAM:     5991 MB
+    Driver:   27.21.14.5167
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56360
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001620 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 27.93 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.937 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000694 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.817 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1602 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.2 MB.
+System memory in use after: 83.2 MB.
+
+Unloading 72 unused Assets to reduce memory usage. Loaded Objects now: 2038.
+Total: 2.330700 ms (FindLiveObjects: 0.187300 ms CreateObjectMapping: 0.074200 ms MarkObjects: 1.929100 ms  DeleteObjects: 0.138800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Ball Variant.prefab
+  artifactKey: Guid(b4164b9647f55524e935a1520add1eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ball Variant.prefab using Guid(b4164b9647f55524e935a1520add1eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09c69bad1a8447638003548c8673d5be') in 0.094742 seconds
+  Import took 0.097188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/Directional Light.prefab
+  artifactKey: Guid(bd8b544fbdb121048978371701374588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Directional Light.prefab using Guid(bd8b544fbdb121048978371701374588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62e30b936bbe17d41f45ad6458f6cf06') in 0.009343 seconds
+  Import took 0.012000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Untitled-1.png
+  artifactKey: Guid(d0dda8d8b7194da44ae65d8fbd41743b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Untitled-1.png using Guid(d0dda8d8b7194da44ae65d8fbd41743b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4358f1a3d0cb155b5162b0b594fb1a98') in 0.064024 seconds
+  Import took 0.067025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.337640 seconds.
+  path: Assets/Dublin Zoo.unity
+  artifactKey: Guid(006484a7b632d194da43f187c125451c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dublin Zoo.unity using Guid(006484a7b632d194da43f187c125451c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '172e6a6a73245bb9fc2cfecbad373323') in 0.007224 seconds
+  Import took 0.010318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005200 seconds.
+  path: Assets/Dublin Zoo.unity
+  artifactKey: Guid(006484a7b632d194da43f187c125451c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dublin Zoo.unity using Guid(006484a7b632d194da43f187c125451c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '172e6a6a73245bb9fc2cfecbad373323') in 0.003784 seconds
+  Import took 0.006941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.106714 seconds.
+  path: Assets/Football field.unity
+  artifactKey: Guid(de673b286842dbd45bd8e40d6f2768ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Football field.unity using Guid(de673b286842dbd45bd8e40d6f2768ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1951ed9d8a09406f0330f29a005936c') in 0.008790 seconds
+  Import took 0.011588 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
