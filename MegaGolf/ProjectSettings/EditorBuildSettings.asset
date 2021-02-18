@@ -6,12 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/TestGolf.unity
-    guid: be2ebc8b254d5a34bb09e59d579c943a
-  - enabled: 1
-    path: Assets/Scenes/Level1.unity
-    guid: 54fab7d0fa5c7e348aaa7b615b7da892
-  - enabled: 1
-    path: Assets/Katri.unity
+    path: Assets/Dublin Zoo.unity
     guid: 006484a7b632d194da43f187c125451c
+  - enabled: 1
+    path: Assets/Football field.unity
+    guid: de673b286842dbd45bd8e40d6f2768ed
   m_configObjects: {}
